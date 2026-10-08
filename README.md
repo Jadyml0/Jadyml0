@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou a Jade Anne! 👋
 
-<!--
-**Jadyml0/Jadyml0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software (Estácio - 2024 a 2028)
+💼 Estagiária de Infraestrutura na BADESPI
+📍 Teresina - PI
 
-Here are some ideas to get you started:
+## O que estou aprendendo:
+- 🖥️ Infraestrutura: Proxmox, Linux, Redes, Cabeamento
+- 🌐 Front-End: HTML, CSS, JavaScript
+- 🔧 Manutenção de Computadores
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos:
+- Em breve...
+
+## Contato:
+- 📧 jadeanne.ml@gmail.com
+- 📞 (86) 98815-0103
